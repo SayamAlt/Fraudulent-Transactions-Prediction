@@ -9,6 +9,7 @@
 ## Content
 
 Data for detection of fraudulent transactions is available in CSV format having 6362620 rows and 10 columns.
+Dataset download link: https://drive.google.com/file/d/1KK5zotnGiCbvLEIAbjr3N9HMI2H_9WBC/view?usp=sharing
 
 ### Data Dictionary:
 
