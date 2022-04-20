@@ -1,5 +1,11 @@
 # Fraudulent-Transactions-Prediction
 
+## Objective
+
+A machine learning model needs to be built which can successfully predict whether any given transaction is fraudulent or not based on its various features. 
+
+[Fraudulent Transaction Prediction](https://camo.githubusercontent.com/d05dcd92fd552ce96585b1063a306d89f67d52c91b67b6ac3c8891767c86605c/68747470733a2f2f7777772e66696e616e63652d6d6f6e74686c792e636f6d2f46696e616e63652d4d6f6e74686c792f77702d636f6e74656e742f75706c6f6164732f323031382f30372f46726175642d45706964656d69632d436f7374732d254332254133332e322d5472696c6c696f6e2d476c6f62616c6c792e6a7067)
+
 ## About Dataset
 
     step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
